@@ -11,10 +11,10 @@
 		"pawn-lang/YSI-Includes",
 		"Southclaws/pawn-uuid:1.0.1",
 		"Southclaws/pawn-errors",
-		"ScavengeSurvive/button",
+		"sfrp/samp-button",
 		"ScavengeSurvive/mathutil",
 		"ScavengeSurvive/tick-difference",
-		"ScavengeSurvive/action-text",
+		"sfrp/samp-action-text",
 		"ScavengeSurvive/personal-space"
 	],
 	"dev_dependencies": [
